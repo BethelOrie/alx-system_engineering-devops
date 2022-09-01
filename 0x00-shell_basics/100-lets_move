@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+#/bin/bash
+>>>>>>> 7f3f7e1ad0e9b08d60dfa5169ca9453d039c72ca
 mv [[:upper:]]* /tmp/u
